@@ -13,10 +13,10 @@ h1 {
 	padding-bottom: 5px;
 	border-bottom: 1px solid #ddd;
 }
-h1,
-p,
-ul {
-	margin-bottom: 15px;
+h1, h2, h3,
+ul, ol,
+p {
+	margin-bottom: 10px;
 	line-height: 1.5em;
 }
 
@@ -24,11 +24,6 @@ ul,
 ol {
 	padding-left: 20px;
 	line-height: 1.5em;
-}
-
-.text-done {
-	color: #04800e;
-	text-decoration: line-through;
 }
 
 main {
@@ -40,6 +35,23 @@ main {
 	background: #fff;
 	border: 1px solid #ddd;
 }
+
+section {
+	margin-bottom: 20px;
+	border-bottom: 1px solid #ddd;
+	padding-bottom: 10px;
+}
+section:last-child {
+	margin: 0;
+	border: 0;
+	padding: 0;
+}
+
+.text-done {
+	color: #04800e;
+	text-decoration: line-through;
+}
+
 #credits {
 	font-size: 12px;
 	color: #666;
