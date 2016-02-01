@@ -20,9 +20,15 @@ ul {
 	line-height: 1.5em;
 }
 
-ul {
+ul,
+ol {
 	padding-left: 20px;
 	line-height: 1.5em;
+}
+
+.text-done {
+	color: #04800e;
+	text-decoration: line-through;
 }
 
 #wrap {
