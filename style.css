@@ -13,10 +13,16 @@ h1 {
 	padding-bottom: 5px;
 	border-bottom: 1px solid #ddd;
 }
-
 h1,
-p {
-	margin-bottom: 20px;
+p,
+ul {
+	margin-bottom: 15px;
+	line-height: 1.5em;
+}
+
+ul {
+	padding-left: 20px;
+	line-height: 1.5em;
 }
 
 #wrap {
