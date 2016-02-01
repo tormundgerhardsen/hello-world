@@ -1,0 +1,29 @@
+* {
+	margin: 0; border: 0; padding: 0;
+}
+
+body {
+	font-family: arial, verdana, sans-serif;
+	font-size: 14px;
+	background: #eee;
+	color: #333;
+}
+
+h1 {
+	padding-bottom: 5px;
+	border-bottom: 1px solid #ddd;
+}
+
+h1,
+p {
+	margin-bottom: 20px;
+}
+
+#wrap {
+	width: 600px;
+	margin: 0 auto;
+	margin-top: 100px;
+	padding: 20px;
+	background: #fff;
+	border: 1px solid #ddd;
+}
