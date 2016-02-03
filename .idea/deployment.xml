@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="PRO ISP" persistUploadOnCheckin="false">
+    <serverData>
+      <paths name="PRO ISP">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/hello-world" local="$PROJECT_DIR$" web="/" />
+            <mapping local="" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
